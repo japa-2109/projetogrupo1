@@ -1,0 +1,30 @@
+body
+{margin: 15px;
+display: flex;
+justify-content: center;
+font-family: Arial, Helvetica, sans-serif;
+background-color:#eee;}
+
+section
+{margin: auto;
+padding: 20px 20px;
+width: 90%;
+border-radius: 8px;
+border: 2px solid gray;
+box-shadow: 1px 1px 1px 1px rgb(0, 0, 0, 0.2);
+background-color: white;}
+
+h2, p
+{text-align: center;}
+
+p
+{color: gray;
+font-weight: bold;}
+
+input[type=text], input[type=number]
+{padding: 15px;
+border-radius: 5px;
+border: 1px solid gray;}
+
+table
+{background-color: blue;}
