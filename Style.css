@@ -45,11 +45,13 @@ table
 {width: 100%;}
 
 thead
-{color: white;
+{
+color: white;
 background-color: blue;}
 
 tr, th
-{border: #b9b9b9;}
+{padding: 15px;
+border: #b9b9b9;}
 
 #ed
 {padding: 15px;
