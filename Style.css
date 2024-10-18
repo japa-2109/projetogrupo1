@@ -22,9 +22,45 @@ p
 font-weight: bold;}
 
 input[type=text], input[type=number]
-{padding: 15px;
+{    padding: 15px;
 border-radius: 5px;
 border: 1px solid gray;}
 
+input[type= text]
+{margin-right:15px;
+width: 45%;}
+
+input[type= number]
+{margin-right: 15px;
+width: 25%;}
+
+.btn
+{padding: 15px;
+border: none;
+border-radius: 8px;
+color: #fff;
+background-color: blue;}
+
 table
-{background-color: blue;}
+{width: 100%;}
+
+thead
+{color: white;
+background-color: blue;}
+
+tr, th
+{border: #b9b9b9;}
+
+#ed
+{padding: 15px;
+border-radius: 8px;
+border: none;
+color: #fff;
+background-color: green;}
+
+#ex
+{padding: 15px;
+border-radius: 8px;
+border: none;
+color: #fff;
+background-color: red;}
